@@ -144,7 +144,7 @@ li {
     }
 
     body {
-        zoom: 170%;
+        zoom: 200%;
     }
 
     #pricing{
@@ -154,7 +154,7 @@ li {
 
 /* Location */
 #location {
-    padding: 100px;
+    padding: 100px 10px;
     text-align: center;
     background-color: #f5f4f2;
 }
