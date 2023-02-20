@@ -147,8 +147,12 @@ li {
         zoom: 200%;
     }
 
-    #pricing{
+    #pricing {
         padding: 30px;
+    }
+
+    .g-map {
+        zoom: 50%;
     }
 }
 
@@ -172,4 +176,10 @@ li {
 .social-icon {
     margin: 20px 10px;
     color: inherit;
+}
+
+/* Google map*/
+.g-map {
+    width: 600px;
+    height: 480px;
 }
