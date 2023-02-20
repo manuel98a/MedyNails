@@ -154,6 +154,10 @@ li {
     .g-map {
         zoom: 50%;
     }
+
+    .nail-example {
+        width: 80%;
+    }
 }
 
 /* Location */
