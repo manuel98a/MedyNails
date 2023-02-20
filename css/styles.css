@@ -106,8 +106,9 @@ li {
     margin: 20px;
 }
 
-.nail-example:hover{
-    transform:scale(1.5);
+.nail-example:hover {
+    transform: scale(1.5);
+    margin: 0;
 }
 
 .carousel-item {
@@ -161,6 +162,7 @@ li {
 
     .nail-example {
         width: 110%;
+        margin: 0;
     }
 }
 
