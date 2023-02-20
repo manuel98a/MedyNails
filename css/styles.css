@@ -142,6 +142,10 @@ li {
     #title {
         text-align: center;
     }
+
+    body{
+        zoom: 150%;
+    }
 }
 
 /* Location */
