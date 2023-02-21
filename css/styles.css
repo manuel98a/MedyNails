@@ -190,6 +190,10 @@ li {
         padding: 20px 30px;
         font-size: 35pt
     }
+
+    .strong-element{
+        font-size:13pt;
+    }
 }
 
 /* Location */
