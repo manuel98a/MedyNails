@@ -194,6 +194,14 @@ li {
     .strong-element{
         font-size:13pt;
     }
+
+    h2{
+        font-size: 3rem;
+    }
+
+    h3{
+        font-size: 2.5rem;
+    }
 }
 
 /* Location */
