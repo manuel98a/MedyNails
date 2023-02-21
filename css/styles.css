@@ -166,7 +166,7 @@ li {
     }
 
     strong{
-        font-size:larger;
+        font-size: var(--bs-body-font-size);
     }
 
     #title {
