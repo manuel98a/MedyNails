@@ -165,10 +165,6 @@ li {
         padding: 7% 12%;
     }
 
-    strong{
-        font-size: var(--bs-body-font-size);
-    }
-
     #title {
         text-align: center;
     }
