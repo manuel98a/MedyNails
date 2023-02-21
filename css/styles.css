@@ -141,8 +141,12 @@ li {
 @media (max-width: 1028px) {
 
     .navbar-toggler{
-        padding: 20px 30px;
+        padding: 15px 25px;
         font-size: 20pt;
+    }
+
+    .nav-link{
+        font-size: 30pt;
     }
 
     .navbar-brand{
